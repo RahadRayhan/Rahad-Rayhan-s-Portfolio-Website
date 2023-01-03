@@ -23,3 +23,37 @@ padding-right: 20px;
 width: 40%;
 padding-bottom: 20%;
 }
+.full-width{
+    font-size: large;
+    padding-left: 15px;
+}
+.image-add2{
+    padding-left: 5px;
+}
+.section3{
+    display: flex;
+}
+.experience-container{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-shadow: 10px 10px 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    border-left: 10px solid rgba(74, 133, 211, 0.765);
+    border-radius: 20px;
+  }
+  .experience-container{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 10%;
+    box-shadow: 10px 10px 40px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    border-left: 10px solid rgb(172, 54, 136);
+    border-radius: 20px;
+  }
+
+
